@@ -18,4 +18,4 @@ to containerized or cloud-based deployments.
 - Infrastructure as Code (IaC)
 
 ## Previews
-
+<img src="Output.png" alt="Output">
